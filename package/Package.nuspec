@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>VisualStudio.gitignore</id>
+    <version>1.0.0.0</version>
+    <authors>Peter Ritchie</authors>
+    <owners>Peter Ritchie</owners>
+    <licenseUrl>https://github.com/peteraritchie/VisualStudio.gitignore/raw/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/peteraritchie/VisualStudio.gitignore</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>latest Github .gitignore for VisualStudio</description>
+    <releaseNotes>Created</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Visual Studio git .gitignore</tags>
+  </metadata>
+</package>
