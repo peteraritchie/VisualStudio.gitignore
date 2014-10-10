@@ -7,6 +7,7 @@
     <owners>Peter Ritchie</owners>
     <licenseUrl>https://github.com/peteraritchie/VisualStudio.gitignore/raw/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/peteraritchie/VisualStudio.gitignore</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/peteraritchie/VisualStudio.gitignore/master/package/Icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>latest Github .gitignore for VisualStudio</description>
     <releaseNotes>Created</releaseNotes>
