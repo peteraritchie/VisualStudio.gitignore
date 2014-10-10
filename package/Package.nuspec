@@ -2,15 +2,15 @@
 <package >
   <metadata>
     <id>VisualStudio.gitignore</id>
-    <version>1.0.0.0</version>
+    <version>1.0.1.0</version>
     <authors>Peter Ritchie</authors>
     <owners>Peter Ritchie</owners>
     <licenseUrl>https://github.com/peteraritchie/VisualStudio.gitignore/raw/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/peteraritchie/VisualStudio.gitignore</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/peteraritchie/VisualStudio.gitignore/master/package/Icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>latest Github .gitignore for VisualStudio</description>
-    <releaseNotes>Created</releaseNotes>
+    <description>Installs the latest Github .gitignore for VisualStudio into the solution directory.  To update the .gitignore, uninstall and re-install</description>
+    <releaseNotes>Updated description</releaseNotes>
     <copyright>Copyright 2014</copyright>
     <tags>Visual Studio git .gitignore</tags>
   </metadata>
